@@ -7,3 +7,4 @@ this is a switch test.
 creating a new branch is quick and simple.
 test branch history
 test on-ff
+test --on-ff option

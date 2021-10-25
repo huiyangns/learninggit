@@ -5,3 +5,4 @@ git tracks changes of files.
 creating a new branch is quick.
 this is a switch test.
 creating a new branch is quick and simple.
+test branch history

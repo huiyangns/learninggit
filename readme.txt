@@ -12,3 +12,4 @@ git is a free software.
 git is happy
 push dev branch to origin
 push by myself
+push from my colleague

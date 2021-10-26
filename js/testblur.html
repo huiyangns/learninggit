@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #search {
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <input type="text" id="search" value='手机'>
+
+    <script>
+        var ip = document.querySelector('#search')
+
+        ip.onfocus = function(){
+            if (this.value === '手机'){
+                this.value = ''
+            }
+            this.style.color = '#333'
+            
+        }
+
+        ip.onblur = function(){
+            if (this.value === ''){
+                this.value = '手机'
+                this.style.color = '#999'
+            }
+            
+            
+        }
+    </script>
+</body>
+</html>

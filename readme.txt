@@ -9,3 +9,4 @@ test branch history
 test on-ff
 test --on-ff option
 git is a free software.
+git is happy

@@ -10,3 +10,4 @@ test on-ff
 test --on-ff option
 git is a free software.
 git is happy
+push dev branch to origin

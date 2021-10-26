@@ -8,3 +8,4 @@ creating a new branch is quick and simple.
 test branch history
 test on-ff
 test --on-ff option
+git is a free software.
